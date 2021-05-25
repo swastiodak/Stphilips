@@ -1,4 +1,32 @@
-.ul{
-    font-weight: 100;
-    color: white;
+body {
+    text-align: center;
+}
+
+.my_nav_bar {
+    position: sticky;
+    top: 0px;
+    z-index: 99999;
+
+}
+
+.links {
+    color: navy;
+    padding-left: 25px;
+    padding-right: 25px;
+    font-family: fantasy;
+    font-size: 20px;
+    display: inline;
+}
+
+.stphilip {
+    margin-top: 30px;
+    margin-bottom: 15px;
+}
+
+a {
+    text-decoration: none;
+    font-size: 30px;
+    color: coral;
+    text-shadow: 2px 2px azure;
+
 }
