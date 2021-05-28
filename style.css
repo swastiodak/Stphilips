@@ -9,15 +9,19 @@ body {
 
 }
 
-.links {
-    color: navy;
+.links:hover {
+    color: aquamarine;
     padding-left: 25px;
     padding-right: 25px;
     font-family: fantasy;
     font-size: 20px;
     display: inline;
 }
-
+links{
+    color: crimson;
+    font-family: fantasy;
+    padding: 500px;
+}
 .stphilip {
     margin-top: 30px;
     margin-bottom: 15px;
@@ -29,4 +33,13 @@ a {
     color: coral;
     text-shadow: 2px 2px azure;
 
+}
+
+#img123{
+    height: 250px;
+}
+
+#img321{
+    border-radius: 50%;
+    height: 50px;
 }
