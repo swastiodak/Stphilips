@@ -17,11 +17,13 @@ body {
     font-size: 20px;
     display: inline;
 }
-links{
+
+links {
     color: crimson;
     font-family: fantasy;
     padding: 500px;
 }
+
 .stphilip {
     margin-top: 30px;
     margin-bottom: 15px;
@@ -35,16 +37,41 @@ a {
 
 }
 
-#img123{
+#img123 {
     height: 250px;
 }
 
-#img321{
+#img321 {
     border-radius: 50%;
     height: 50px;
 }
 
 
-.about{
-    width:80%;
+.about {
+    width: 80%;
+}
+
+.stphi1 {
+    font-family: cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+html {
+    text-align: center;
+}
+
+#home {
+    background: linear-gradient(#ffffff 0%, #ba190d 100%);
+}
+
+#about {
+    background: linear-gradient(#ffffff 0%, #0a612e 100%);
+}
+
+#achievements{
+    background: linear-gradient(#ffffff 0%, #d7f20c 100%);
+    border-radius: 70px;
+    height: 25px;
+    font-size: 20px;
 }
