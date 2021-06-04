@@ -38,7 +38,7 @@ a {
 }
 
 #img123 {
-    height: 250px;
+    height: 300px;
 }
 
 #img321 {
@@ -69,9 +69,23 @@ html {
     background: linear-gradient(#ffffff 0%, #0a612e 100%);
 }
 
-#achievements{
+#achievements {
     background: linear-gradient(#ffffff 0%, #d7f20c 100%);
+}
+
+.bg-primary movie_head,
+.bg-primary picture_head {
     border-radius: 70px;
     height: 25px;
+    width: 150px;
     font-size: 20px;
+}
+
+#image1{
+    height: 50px;
+    width: 50px;
+}
+
+.whats_new {
+    text-align: center;
 }
